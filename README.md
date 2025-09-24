@@ -1,7 +1,9 @@
 I Jupyter Notebook sono contenuti nella cartella della relativa esercitazione.
 
 Per compilare i codici: comando 'make'
+
 Per eseguire i codici: comando './nome_eseguibile'
+
 Eventuali istruzioni specifiche sui parametri da inserire sono indicate nei Jupyter Notebook corrispondenti.
 
 Per via delle dimensioni superiori a 25 MB, i seguenti files sono stati compressi:
