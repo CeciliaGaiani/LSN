@@ -12,3 +12,5 @@ Per via delle dimensioni superiori a 25 MB, i seguenti files sono stati compress
 3. Esercitazione 7: dati relativi ai valori istantanei di energia potenziale per stimare la funzione di autocorrelazione.
 
 Le Esercitazioni 11 e 12 sono state svolte su Google Colab.
+
+NB: l'Esercitazione 1 è stata ricaricata il giorno 25/09, in quanto mi sono accorta di un errore.
